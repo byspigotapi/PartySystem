@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="714ed007-b909-4396-b904-06d616ffa95d" name="byspigotapi">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
